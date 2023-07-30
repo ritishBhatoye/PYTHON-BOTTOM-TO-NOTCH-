@@ -1,0 +1,5 @@
+ritish_s1 = input("Enter first string : ")
+ritish_s2 = input("Enter second string : ")
+print("First String : ",ritish_s1)
+print("Second String : ",ritish_s2)
+print("Concatenations of two strings :",ritish_s1+ritish_s2)
